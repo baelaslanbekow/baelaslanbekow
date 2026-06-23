@@ -1,10 +1,20 @@
-# Hi, I'm Bael Aslanbekow 👋
+# Hi, I'm Bael Aslanbekov 👋
 
 Full-stack developer · AI Architect. Собираю AI-продукты с упором на UX и реальный пользовательский сценарий.
 
 🌐 **[Портфолио](https://baelaslanbekow.github.io/portfolio-2026/)** · ✈️ [Telegram](https://t.me/as1anbekow) · ⚡ [GitHub](https://github.com/baelaslanbekow)
 
-### 🔥 Featured Project
+### 🔥 Featured Projects
+
+| | |
+|---|---|
+| **[ZamanAI — AGI Platform](https://github.com/baelaslanbekow/zamanai)** | Веб-платформа с двумя режимами: LLM и полный AGI-пайплайн |
+| Stack | Python · FastAPI · Groq · SSE · SQLite · Vanilla JS |
+| Highlights | Дебаты · Рефлексия · Память · Web Search · iOS-style UI |
+
+[![ZamanAI](https://img.shields.io/badge/GitHub-zamanai-007AFF?logo=github)](https://github.com/baelaslanbekow/zamanai)
+[![Python](https://img.shields.io/badge/Python-3.11+-3776AB?logo=python&logoColor=white)](https://github.com/baelaslanbekow/zamanai)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)](https://github.com/baelaslanbekow/zamanai)
 
 | | |
 |---|---|
@@ -18,10 +28,11 @@ Full-stack developer · AI Architect. Собираю AI-продукты с уп
 
 ### 🛠 Tech Stack
 
-`Python` `FastAPI` `JavaScript` `SQLAlchemy` `Groq API` `Docker` `PWA` `Git`
+`Python` `FastAPI` `JavaScript` `Groq API` `AGI Architecture` `SQLite` `SSE` `Docker` `PWA`
 
 ### 📂 Projects
 
+- [**zamanai**](https://github.com/baelaslanbekow/zamanai) — AGI-платформа с веб-интерфейсом (LLM + AGI)
 - [kyrgyz-voice-assistant](https://github.com/baelaslanbekow/kyrgyz-voice-assistant) — голосовой AI на кыргызском
 - [portfolio-2026](https://github.com/baelaslanbekow/portfolio-2026) — портфолио / резюме
 - [life-in-namaz](https://github.com/baelaslanbekow/life-in-namaz) — Prayer Tracker
