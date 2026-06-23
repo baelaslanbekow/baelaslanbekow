@@ -2,7 +2,7 @@
 
 Full-stack developer · AI Architect. Собираю AI-продукты с упором на UX и реальный пользовательский сценарий.
 
-🌐 **[Портфолио](https://baelaslanbekow.github.io/portfolio-2026/)** · ✈️ [Telegram](https://t.me/as1anbekow) · ⚡ [GitHub](https://github.com/baelaslanbekow)
+🌐 **[Портфолио](https://baelaslanbekow.github.io/portfolio-2026/)** · ✈️ [Telegram](https://t.me/kyrgyz4) · ⚡ [GitHub](https://github.com/baelaslanbekow)
 
 ### 🔥 Featured Projects
 
